@@ -1,0 +1,3 @@
+#!/Users/chanceonyiorah/Documents/Spring2023/Visual Interfaces/Final Project/flask-server/.venv/bin/python3
+from numba.pycc import main
+main()
